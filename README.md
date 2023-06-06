@@ -20,18 +20,22 @@ Database contains 310 ECG recordings, obtained from 90 persons:
 
 ## Formulas
 1- Distance Formula:
+
 ![(21) Distance formula](https://github.com/Stevenwaheed/ECG_Prototype/assets/83607748/e4d5b286-12c4-4555-8e3a-53687610a588)
 
 
 2- Slope Formula:
+
 ![(22) slope formula](https://github.com/Stevenwaheed/ECG_Prototype/assets/83607748/b68ce856-15b0-488b-991e-6dcdbd13bf06)
 
 
 3- Amplitude Formula:
+
 ![Screenshot 2023-02-07 053641](https://github.com/Stevenwaheed/ECG_Prototype/assets/83607748/b59f116e-4e59-47c1-bc0a-1fea55bf48e9)
 
 
 4- Interval Formula:
+
 ![Screenshot 2023-02-07 054021](https://github.com/Stevenwaheed/ECG_Prototype/assets/83607748/045ce254-a788-4bf7-a3f1-8bdd68be6fdb)
 
 
